@@ -1,0 +1,69 @@
+.bg-container {
+    background-image: url('https://wallpapercave.com/wp/wp4088770.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.container-left-pannel:hover {
+    background-color: rgba(204, 204, 204, 0.92);
+}
+.container-left-pannel {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    background-color: rgba(204, 204, 204, 0.83);
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    height: 90vh;
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+}
+
+.container-right-pannel {
+    color: white;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    padding-right: 48px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 90vh;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    background-color: grey}
+
+#btnHome {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.b-2 {
+    padding-left: 29px;
+    padding-right: 29px;
+}
+
+.b-4 {
+    padding-left: 44px;
+    padding-right: 44px;
+}
+
+.btn:hover {
+    background-color: red;
+}
+
+.para {
+    font-size: 22px;
+}
+
+.points {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.image {
+    width: 900px;
+    height: 200px; 
+    border-radius: 12px; 
+}
+
+.border-shape {
+    border-radius: 12px;
+}
